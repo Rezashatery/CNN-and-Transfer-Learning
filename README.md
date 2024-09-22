@@ -5,4 +5,5 @@ firstly investigate how to implement models based on CNNs in tensorflow/keras an
   - tensroflow/keras
   - matplotlib
   - numpy
+  - other important libraries
 
